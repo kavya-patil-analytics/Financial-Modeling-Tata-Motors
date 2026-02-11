@@ -1,9 +1,11 @@
 # Financial-Modeling-Tata-Motors
 
 📌 Project Summary
+
 This project focuses on analyzing the financial performance, Financial analysis, forecasting and DCF valuation model of Tata Motors Ltd using Excel.
 
 📚 Concepts Applied
+
 Financial Statement Analysis
 Ratio Analysis
 Financial Forecasting
@@ -34,16 +36,16 @@ Calculated Terminal Value
 Developed a structured financial model to evaluate company valuation and understand long-term growth potential.
 
 📂 Repository Structure
+
 Financial-Modeling-Tata-Motors/
 │
 ├── Tata_Motors_2022.xlsx
 └── README.md
 
 ## Future Improvements
-- Sensitivity Analysis
+
+-  Sensitivity Analysis
 - Scenario Analysis (Best, Base, Worst case)
 - Comparable Company Valuation
 
-Discounted projected cash flows to estimate intrinsic equity value
-📈 Key Outcome
-Developed a structured financial model to evaluate company valuation and understand long-term growth potential.
+
