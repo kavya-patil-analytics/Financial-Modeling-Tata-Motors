@@ -55,7 +55,9 @@ Developed a structured financial model to evaluate company valuation and underst
 
 Financial-Modeling-Tata-Motors/
 │
-├── Tata_Motors_2022.xlsx
+├── Model/
+│   └── Tata_Motors_2022.xlsx
+│
 └── README.md
 
 ## Future Improvements
